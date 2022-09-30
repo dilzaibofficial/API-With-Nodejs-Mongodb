@@ -1,12 +1,13 @@
 {
   "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0",
     "packages": "^0.0.8"
   },
   "name": "api-with-nodejs-with-mongodb",
   "version": "1.0.0",
   "description": "Code Step By Step",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
